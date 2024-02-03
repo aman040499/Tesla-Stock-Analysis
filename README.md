@@ -4,7 +4,7 @@
 
 Tesla, as a dynamic player in the Electric Vehicle (EV) market, has garnered considerable attention for its innovative approach. This analysis delves into historical stock data of TESLA INC. (TSLA) collected from Kaggle, aiming to discern patterns in Tesla's stock performance and trading volume.
 
-**Dataset Source:** The dataset is sourced from Kaggle, providing a comprehensive historical perspective on Tesla's stock.
+Dataset Source: The dataset is sourced from Kaggle, providing a comprehensive historical perspective on Tesla's stock.
 
 **Methodology**
 
@@ -22,7 +22,7 @@ Handling Missing Values: Strategies are employed to address missing values, ensu
 Distribution Analysis: The dataset's distribution is explored to understand the spread of Tesla's stock data.
 Outliers Identification: Outliers identification is done to ensure there are no outliers in the dataset. 
 
-**Correlation Analysis**: Relationships within the data are examined to uncover potential patterns.
+Correlation Analysis: Relationships within the data are examined to uncover potential patterns.
 
 **Data Visualization:**
 
