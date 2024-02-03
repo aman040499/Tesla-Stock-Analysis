@@ -1,4 +1,4 @@
-#Tesla Stock Performance Analysis
+**#Tesla Stock Performance Analysis**
 
 **Introduction**
 Tesla, as a dynamic player in the Electric Vehicle (EV) market, has garnered considerable attention for its innovative approach. This analysis delves into historical stock data of TESLA INC. (TSLA) collected from Kaggle, aiming to discern patterns in Tesla's stock performance and trading volume.
