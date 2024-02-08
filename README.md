@@ -6,6 +6,11 @@ Tesla, as a dynamic player in the Electric Vehicle (EV) market, has garnered con
 
 Dataset Source: The dataset is sourced from Kaggle, providing a comprehensive historical perspective on Tesla's stock.
 
+
+**Executive Summary**
+
+The analysis follows a structured methodology, covering data collection, wrangling, exploratory data analysis, and data visualization. Insights gained from this analysis contribute to a deeper understanding of Tesla's stock performance and trading patterns.
+
 **Methodology**
 
 **Data Collection:**
@@ -34,14 +39,13 @@ Analyzing Relationships: Visual representations aid in the analysis of relations
 Effective Representation: Power BI dashboards are created for a dynamic and effective representation of the analyzed data.
 User-Friendly Interface: Dashboards offer an intuitive interface for users to interact with and gain insights.
 
-**Executive Summary**
-
-The analysis follows a structured methodology, covering data collection, wrangling, exploratory data analysis, and data visualization. Insights gained from this analysis contribute to a deeper understanding of Tesla's stock performance and trading patterns.
 
 **Project Structure**
 
 /data: Contains raw and processed datasets.
+
 /notebooks: Jupyter notebooks detailing step-by-step analysis.
+
 /visualizations: Visual representations of Tesla's stock data.
 
 **Results**
